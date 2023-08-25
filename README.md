@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abishek.
 - 👀 I’m interested in scientific computations, FORTRAN, Neural and machine learning machines. 
 - 🌱 I’m currently trying to learn FORTRAN and i have experience with in ab initio calculations and C programming language.
-- 💞️ I’m looking to collaborate on FORTRAN projects for any small FORTRAN computational projects. If you too are interested and willing to learn,hit me up!
-- If you're interested in collaborating in any projects for ab initio calculations or quantum calculations..let's do it together and learn.
+- 💞️ I’m looking to collaborate on FORTRAN projects for any small FORTRAN computational projects. If you too are interested and willing to learn together,hit me up!
+- If you're interested in collaborating in any projects for ab initio calculations or quantum calculations..let's do it together and learn together.
 - 📫 you can mail me at terobaaukochaak69@gmail.com
 
 <!---
